@@ -1,0 +1,12 @@
+[package]
+name = "adventofcode-2021"
+version = "0.1.0"
+edition = "2021"
+authors = ["Martin Huschenbett <martin.huschenbett@posteo.me>"]
+publish = false
+description = "My solutions to the 2021 edition of https://adventofcode.com"
+homepage = "https://github.com/hurryabit/adventofcode-2021#readme"
+repository = "https://github.com/hurryabit/adventofcode-2021.git"
+license = "The Unlicense"
+
+[dependencies]
